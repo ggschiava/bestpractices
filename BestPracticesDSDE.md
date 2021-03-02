@@ -9,6 +9,13 @@ If you are in a team with *end-to-end CI/CD using IDEs*, maybe you can skip most
 
 ![plot](./DSvsProductionCode.png)
 
+## About   
+
+I am Dr Guillermo. G Schiava D'Albano, currrently I am the Team Lead for the Nordircs at Databricks, where I am also a Solutions Architect.   
+For general tips and information on Big Data and Data Science follow me on LinkedIn https://www.linkedin.com/in/g-schiava/ 
+
+If you want to collaborate please contact me, do a pull request :)   
+
 ## Introduction
 
 Ideally production code should be done on an IDE running local tests, then should be committed to Git then the usual peer-review -> Merge, CI/CD...
@@ -143,4 +150,4 @@ To improve how you design your pipelines
 Delta Lake Papers (optional if you want to go down the rabbit hole)     
 * Delta Lake: https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf  
 * Lakehouse http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf  
-
+  

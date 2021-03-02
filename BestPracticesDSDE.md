@@ -7,6 +7,7 @@ If you are in a team mostly working on *Notebooks* and you and your team are loo
 If you are in a team with *end-to-end CI/CD using IDEs*, maybe you can skip most of this document. 
 
 
+![plot](./DSvsProductionCode.png)
 
 ## Introduction
 

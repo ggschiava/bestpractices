@@ -121,3 +121,25 @@ General software development: Uncle bob :
 
 The future of programming Uncle Bob https://www.youtube.com/watch?v=ecIWPzGEbFc
 
+
+## Further on Big data   
+
+Coursera   
+* Data Science with Databricks for Data Analysts Specialization: https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts   
+
+Spark Delta Lake  
+* Making Apache Spark™ Better with Delta Lake :  https://www.youtube.com/watch?v=LJtShrQqYZY  
+* Tech Talk: Top Tuning Tips for Spark 3.0 and Delta Lake on Databricks : https://www.youtube.com/watch?v=hcoMHnTcvmg   
+* Advancing Spark - Delta Merging with Structured Streaming Data : https://www.youtube.com/watch?v=2Iy5S0Hf4XM&feature=youtu.be  
+* Advancing Spark - Your Delta & Spark Q&A (SQLBits 2020 Part 1)  : https://www.youtube.com/watch?v=GAVXRP29-8c     
+* Introducing MLflow for End-to-End Machine Learning on Databricks  : https://www.youtube.com/watch?v=nx3yFzx_nHI     
+
+
+To improve how you design your pipelines    
+* Functional Data Pipelines (this is before Delta so you may need to adapt this to your work) : https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a    
+
+
+Delta Lake Papers (optional if you want to go down the rabbit hole)     
+* Delta Lake: https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf  
+* Lakehouse http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf  
+

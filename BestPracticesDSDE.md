@@ -129,6 +129,8 @@ General software development: Uncle bob :
 
 The future of programming Uncle Bob https://www.youtube.com/watch?v=ecIWPzGEbFc
 
+Don't put data science notebooks into production https://martinfowler.com/articles/productize-data-sci-notebooks.html
+
 
 ## Further on Big data   
 

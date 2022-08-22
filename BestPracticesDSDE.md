@@ -11,7 +11,8 @@ If you are in a team with *end-to-end CI/CD using IDEs*, maybe you can skip most
 
 ## About   
 
-I am Dr Guillermo. G Schiava D'Albano, currrently I am the Team Lead for the Nordircs at Databricks, where I am also a Solutions Architect.   
+I am Dr Guillermo. G Schiava D'Albano, currrently I am a Sr Partner SA covering Scandivania, Benelux, UK and IR.
+
 For general tips and information on Big Data and Data Science follow me on LinkedIn https://www.linkedin.com/in/g-schiava/ 
 
 If you want to collaborate please contact me, do a pull request :)   
@@ -56,6 +57,14 @@ The notebook you are writing (and has decided to go into production) would be re
 Think of that poor person trying to make sense of the code    and who most probably  would be you . Testing is a way to add documentation that does not lie.  
 If you have the skills/time this should be moved to an IDE. If you keep it on notebooks if fine but  please add unit tests to your notebooks and even if a DS project uses the best practices developed in the last 30 years :) 
 
+#### Uning Databricks Notebooks
+
+If you are coding on PySpark I would recommend you to use Nutter for your unit test of Notebooks. 
+* [Here](https://github.com/alexott/databricks-nutter-repos-demo)(kudos to Alex Ott for creating this repo) there is an example on Azure but that will run for AWS and GCP on how to do unit test using PySpark. The only caveat is the use of delta table when reading for unit test. Personally I would suggest to keep all your functions ingesting a *df* and returning a *df*. That would simplify how to do business logic testing
+ ```python
+df = filter_current_customers(df)
+```
+* [Here](https://docs.databricks.com/notebooks/best-practices.html) there are some software engineering best practices for notebooks. Personally I preffer nutter for unit test. 
 
  ## Data Science and Data Engineering (from the ideal scenario to the reality)
 
@@ -77,6 +86,9 @@ When you develop you code :
 1. then you solve any 'scale' issues 
 
 
+#### Using Databricks and IDEs
+This is an area that Databricks is continuing investing in. [Here](https://docs.databricks.com/dev-tools/ide-how-to.html) are ways for you to work today on IDEs today in Databricks. In particular you could use [dbx](https://docs.databricks.com/dev-tools/ide-how-to.html#run-with-dbx) to make your local code run on a DB cluster. You can read more about dbx [here](https://docs.databricks.com/dev-tools/dbx.html) 
+
 
 ### Let's be realistic :-) we know it's 'easy' to use notebooks so...
 
@@ -92,6 +104,8 @@ And how you do development :
 * when the solution works, you will end up with a series of code-blobs/functions. -> extract to extract functions and on a second second Notebook that calls the one where you develop a  run test for your code. 
 
 This is not ideal but at least will give you some level of security that the code comply with all the business rules. In an ideal scenario you should have a test for each of the business requirements 
+
+
 
 #### Some tips for functions 
 * Functions should only do one thing i.e. if a function reads and transform is doing two things

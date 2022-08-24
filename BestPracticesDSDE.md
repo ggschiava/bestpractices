@@ -27,6 +27,12 @@ The reality for the majority of the teams (DE/DS) coming to big data is quite di
 
 The first part of this document is DS specific while the second part is DE/DS
 
+## If you are in a hurry to do CI/CD
+
+I would recommend you to read all of this document but below you have few highlighs 
+
+* Notebooks: jump to [this](https://github.com/ggschiava/bestpractices/edit/main/BestPracticesDSDE.md#uning-databricks-notebooks) section 
+* IDEs: jump to [this](https://github.com/ggschiava/bestpractices/edit/main/BestPracticesDSDE.md#using-databricks-and-ides) section
 
 ## Data Science specific (the good old Notebook) 
 
@@ -60,11 +66,12 @@ If you have the skills/time this should be moved to an IDE. If you keep it on no
 #### Uning Databricks Notebooks
 
 If you are coding on PySpark I would recommend you to use Nutter for your unit test of Notebooks. 
-* [Here](https://github.com/alexott/databricks-nutter-repos-demo)(kudos to Alex Ott for creating this repo) there is an example on Azure but that will run for AWS and GCP on how to do unit test using PySpark. The only caveat is the use of delta table when reading for unit test. Personally I would suggest to keep all your functions ingesting a *df* and returning a *df*. That would simplify how to do business logic testing
+
+* [Best practicies for Databricks Notebooks](https://docs.databricks.com/notebooks/best-practices.html) there are some software engineering best practices for notebooks. Personally I preffer nutter for unit test. 
+* [Adifferent option using nutter library](https://github.com/alexott/databricks-nutter-repos-demo)(kudos to Alex Ott for creating this repo) there is an example on Azure but that will run for AWS and GCP on how to do unit test using PySpark. The only caveat is the use of delta table when reading for unit test. Personally I would suggest to keep all your functions ingesting a *df* and returning a *df*. That would simplify how to do business logic testing
  ```python
 df = filter_current_customers(df)
 ```
-* [Here](https://docs.databricks.com/notebooks/best-practices.html) there are some software engineering best practices for notebooks. Personally I preffer nutter for unit test. 
 
  ## Data Science and Data Engineering (from the ideal scenario to the reality)
 

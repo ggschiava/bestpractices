@@ -31,8 +31,8 @@ The first part of this document is DS specific while the second part is DE/DS
 
 I would recommend you to read all of this document but below you have few highlighs 
 
-* Notebooks: jump to [this](https://github.com/ggschiava/bestpractices/edit/main/BestPracticesDSDE.md#uning-databricks-notebooks) section 
-* IDEs: jump to [this](https://github.com/ggschiava/bestpractices/edit/main/BestPracticesDSDE.md#using-databricks-and-ides) section
+* Notebooks: jump to [this](https://github.com/ggschiava/bestpractices/blob/main/BestPracticesDSDE.md#uning-databricks-notebooks) section 
+* IDEs: jump to [this](https://github.com/ggschiava/bestpractices/blob/main/BestPracticesDSDE.md#using-databricks-and-ides) section
 
 ## Data Science specific (the good old Notebook) 
 

@@ -130,29 +130,6 @@ This is not ideal but at least will give you some level of security that the cod
 
 * comment only when it's needed i.e. the best comment is a small function with a meaningful name that has a test. Test do not lie, comments are hardly  ever maintained and could mislead 
 
-
-## Some material that may help the team write better code
-
- 
-
-Martin Fowler Refactoring:  https://martinfowler.com/articles/refactoring-2nd-ed.html
-
-Uncle Bob Clean architecture https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
-
-Martin Fowler FlaccidScrum : https://martinfowler.com/bliki/FlaccidScrum.html
-
-General software development: Uncle bob :
-* Lesson 1 : https://www.youtube.com/watch?v=7EmboKQH8lM, 
-* Lesson 2 : https://www.youtube.com/watch?v=2a_ytyt9sf8, 
-* Lesson 3 : https://www.youtube.com/watch?v=Qjywrq2gM8o, 
-* Lesson 4: https://www.youtube.com/watch?v=58jGpV2Cg50, 
-* Lesson 5 : https://www.youtube.com/watch?v=sn0aFEMVTpA
-
-The future of programming Uncle Bob https://www.youtube.com/watch?v=ecIWPzGEbFc
-
-Don't put data science notebooks into production https://martinfowler.com/articles/productize-data-sci-notebooks.html
-
-
 ## Data Engineering Loading data into the Lakehouse
 
 There are more than few ways to load data into the Lakehouse:
@@ -176,6 +153,27 @@ Search for 'Data Engineer ' and click on 'Data Engineer Learning Plan'
  <img src="https://github.com/ggschiava/bestpractices/blob/main/02_training.png" width="150">
 
 Of course you could do the same for Data Science. 
+
+
+## Some material that may help the team write better code
+
+
+Martin Fowler Refactoring:  https://martinfowler.com/articles/refactoring-2nd-ed.html
+
+Uncle Bob Clean architecture https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+
+Martin Fowler FlaccidScrum : https://martinfowler.com/bliki/FlaccidScrum.html
+
+General software development: Uncle bob :
+* Lesson 1 : https://www.youtube.com/watch?v=7EmboKQH8lM, 
+* Lesson 2 : https://www.youtube.com/watch?v=2a_ytyt9sf8, 
+* Lesson 3 : https://www.youtube.com/watch?v=Qjywrq2gM8o, 
+* Lesson 4: https://www.youtube.com/watch?v=58jGpV2Cg50, 
+* Lesson 5 : https://www.youtube.com/watch?v=sn0aFEMVTpA
+
+The future of programming Uncle Bob https://www.youtube.com/watch?v=ecIWPzGEbFc
+
+Don't put data science notebooks into production https://martinfowler.com/articles/productize-data-sci-notebooks.html
 
 
 ## Further on Big data   

@@ -165,12 +165,15 @@ As a customer/partner of Databricks or as a Microsoft Employee you have access t
 To understand better how to work on the Lakehouse I would suggest you do at least part of the Data Engineering Learning Plan. These courses have videos and code that you can follow along.
 
 1. Go to [Databricks Academy](https://www.databricks.com/learn/training/login) , use your company email if you do not have yet a password click 'Forgot your password?'
-3. Click course catalog <img src="https://github.com/ggschiava/bestpractices/blob/main/00_training.png" width="150">
-4. Search for 'data engineering with Databricks' , Module 2 you have Delta <img src="https://github.com/ggschiava/bestpractices/blob/main/01_training.png" width="150">
+2. Click course catalog   
+  <img src="https://github.com/ggschiava/bestpractices/blob/main/00_training.png" width="150">
+3. Search for 'data engineering with Databricks' , Module 2 you have Delta   
+  <img src="https://github.com/ggschiava/bestpractices/blob/main/01_training.png" width="150">
 
 
 ### To have an overview of all the Data Engineering courses 
-1. Search for 'Data Engineer ' and click on 'Data Engineer Learning Plan' <img src="https://github.com/ggschiava/bestpractices/blob/main/02_training.png" width="150">
+Search for 'Data Engineer ' and click on 'Data Engineer Learning Plan'   
+ <img src="https://github.com/ggschiava/bestpractices/blob/main/02_training.png" width="150">
 
 Of course you could do the same for Data Science. 
 

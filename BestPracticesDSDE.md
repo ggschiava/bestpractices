@@ -114,7 +114,7 @@ This is not ideal but at least will give you some level of security that the cod
 
 
 
-#### Some tips for functions 
+## Some tips for writing functions 
 * Functions should only do one thing i.e. if a function reads and transform is doing two things
 * functions should be up to 4/6 lines max. Basically when you can not extract any more from a function you are fine   https://www.jetbrains.com/help/idea/extract-method.html 
 
@@ -129,6 +129,13 @@ This is not ideal but at least will give you some level of security that the cod
 * write code not for the computer to understand but for your peers to understand. 
 
 * comment only when it's needed i.e. the best comment is a small function with a meaningful name that has a test. Test do not lie, comments are hardly  ever maintained and could mislead 
+
+## Data Science MLOps 
+
+* Great repo with MLOps example easy to follow by RafiKurlansik [dais2021_full_ml_lifecycle](https://github.com/RafiKurlansik/dais2021_full_ml_lifecycle) Just updated Koalas for Spark Pandas API
+* Full DS and MLOps using IDEs Video [MLOps on Databricks: A How-To Guide](https://www.youtube.com/watch?v=JApPzAnbfPI) and the free E-book : [A new data-centric approach to building robust MLOps practices](https://www.databricks.com/p/ebook/the-big-book-of-mlops)
+* Experimental : [MLflow Pipelines (experimental)](https://www.mlflow.org/docs/latest/pipelines.html), also the DAIS presentation [MLflow Pipelines: Accelerating MLOps from Development to Production](https://www.youtube.com/watch?v=0wT-EJBw2n4) and the blog [Introducing MLflow Pipelines with MLflow 2.0](https://www.databricks.com/blog/2022/06/29/introducing-mlflow-pipelines-with-mlflow-2-0.html)
+
 
 ## Data Engineering Loading data into the Lakehouse
 

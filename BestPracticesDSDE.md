@@ -112,6 +112,18 @@ And how you do development :
 
 This is not ideal but at least will give you some level of security that the code comply with all the business rules. In an ideal scenario you should have a test for each of the business requirements 
 
+#### Simplfy your ETL 
+
+Databricks has a new product that would help you to scale [Delta Live Tables](https://www.databricks.com/product/delta-live-tables) (DLT).
+DLT helps data engineering teams simplify [ETL](https://www.databricks.com/glossary/extract-transform-load) development and management with declarative pipeline development, automatic data testing, and deep visibility for monitoring and recovery.  
+Help you on : 
+* Automac testing  
+* [Data Quality](https://docs.databricks.com/workflows/delta-live-tables/delta-live-tables-expectations.html) 
+
+It is possible to write DLT on  
+*  [SQL](https://docs.databricks.com/workflows/delta-live-tables/delta-live-tables-sql-ref.html)  
+*  [Python](https://docs.databricks.com/workflows/delta-live-tables/delta-live-tables-python-ref.html) 
+
 
 
 ## Some tips for writing functions 

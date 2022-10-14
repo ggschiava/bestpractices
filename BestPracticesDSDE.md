@@ -204,3 +204,11 @@ Delta Lake Papers (optional if you want to go down the rabbit hole)
 * Delta Lake: https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf  
 * Lakehouse http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf  
   
+  
+## A litte mix of everyhting else
+
+TPC-DS
+* [Delta-io benchmars](https://github.com/delta-io/delta/tree/master/benchmarks) 
+* [Databricks Spark](https://github.com/databricks/spark-sql-perf)
+
+ 

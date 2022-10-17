@@ -173,6 +173,8 @@ Search for 'Data Engineer ' and click on 'Data Engineer Learning Plan'
 
 Of course you could do the same for Data Science. 
 
+## Data Mesh and Databricks
+You can read about this in this (blog)[https://www.databricks.com/blog/2022/10/10/databricks-lakehouse-and-data-mesh-part-1.html]
 
 ## Some material that may help the team write better code
 

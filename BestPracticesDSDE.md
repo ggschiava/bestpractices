@@ -180,7 +180,7 @@ You can read about this in
 
 ## Demos
 
-These [demos](https://github.com/databricks-demos/) can be installed and running on any Databricks Environment 
+These [demos](https://github.com/databricks-demos/dbdemos) can be installed and running on any Databricks Environment 
 
 
 ## Some material that may help the team write better code

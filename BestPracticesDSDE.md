@@ -175,12 +175,12 @@ Of course you could do the same for Data Science.
 
 ## Data Mesh and Databricks
 You can read about this in   
-* (Databricks Lakehouse and Data Mesh, Part 1)[https://www.databricks.com/blog/2022/10/10/databricks-lakehouse-and-data-mesh-part-1.html]
-* (Building a Data Mesh Based on the Databricks Lakehouse, Part 2)[https://www.databricks.com/blog/2022/10/19/building-data-mesh-based-databricks-lakehouse-part-2.html]
+* [Databricks Lakehouse and Data Mesh, Part 1](https://www.databricks.com/blog/2022/10/10/databricks-lakehouse-and-data-mesh-part-1.html)
+* [Building a Data Mesh Based on the Databricks Lakehouse, Part 2](https://www.databricks.com/blog/2022/10/19/building-data-mesh-based-databricks-lakehouse-part-2.html)
 
 ## Demos
 
-These (demos)[https://github.com/databricks-demos/] can be installed and running on any Databricks Environment 
+These [demos](https://github.com/databricks-demos/) can be installed and running on any Databricks Environment 
 
 
 ## Some material that may help the team write better code

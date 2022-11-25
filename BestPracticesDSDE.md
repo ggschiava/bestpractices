@@ -33,6 +33,7 @@ I would recommend you to read all of this document but below you have few highli
 
 * Notebooks: jump to [this](https://github.com/ggschiava/bestpractices/blob/main/BestPracticesDSDE.md#uning-databricks-notebooks) section 
 * IDEs: jump to [this](https://github.com/ggschiava/bestpractices/blob/main/BestPracticesDSDE.md#using-databricks-and-ides) section
+* Databricks Workflow [video](https://www.youtube.com/watch?v=tMH3K8Rncmk) using Notebooks
 
 ## Data Science specific (the good old Notebook) 
 

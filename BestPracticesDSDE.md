@@ -183,6 +183,9 @@ You can read about this in
 
 These [demos](https://github.com/databricks-demos/dbdemos) can be installed and running on any Databricks Environment 
 
+## Delta Lake
+
+This [comparison](https://www.linkedin.com/feed/update/urn:li:activity:7003408229284155393/) between Delta Lake and Iceberg on EMR, using open-source Spark
 
 ## Some material that may help the team write better code
 

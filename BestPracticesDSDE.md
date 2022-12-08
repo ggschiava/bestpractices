@@ -187,6 +187,13 @@ These [demos](https://github.com/databricks-demos/dbdemos) can be installed and 
 
 This [comparison](https://www.linkedin.com/feed/update/urn:li:activity:7003408229284155393/) between Delta Lake and Iceberg on EMR, using open-source Spark
 
+## Databricks/Snowflake   
+
+And enterprice architecture needs from different solutions depending on the use case. 
+[Here](https://bpcs.com/blog/databricks-vs-snowflake) are some comparisons between SF and DB.
+In general the simplifaction of the Lakehosue architecture accomodate most of the DS/BI use cases. 
+While for some edge cases a DW is the best solution.   
+
 ## Some material that may help the team write better code
 
 

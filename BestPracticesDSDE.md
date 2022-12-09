@@ -187,6 +187,11 @@ These [demos](https://github.com/databricks-demos/dbdemos) can be installed and 
 
 This [comparison](https://www.linkedin.com/feed/update/urn:li:activity:7003408229284155393/) between Delta Lake and Iceberg on EMR, using open-source Spark
 
+### Delta Lake tutorial   
+* [Module 1: Delta Lake 1.2 Tutorial with Jacek Laskowski (2022-05-19)](https://www.youtube.com/watch?v=aHQcN1WwucY&list=PLzxP01GQMpjfxBXBVmzOL43mLLdH0E4TE)
+* [Module 2: Delta Lake 1.2 Tutorial with Jacek Laskowski](https://www.youtube.com/watch?v=cm9aSenVxtg&list=PLzxP01GQMpjfxBXBVmzOL43mLLdH0E4TE&index=1)  
+* [Module 3: Delta Lake 1.2 Tutorial with Jacek Laskowski](https://www.youtube.com/watch?v=u3IrYoH6Aqs&list=PLzxP01GQMpjfxBXBVmzOL43mLLdH0E4TE&index=3)   
+
 ## Databricks/Snowflake   
 
 And enterprice architecture needs from different solutions depending on the use case. 
